@@ -3,7 +3,19 @@
  jVectorMap library should be used for working with map.
 
 */
+import { Teacher } from "Interfaces/Teacher";
+import { useState } from "react";
+import { useEffect } from "react";
+import data from "./data/teachers.json";
+
 const App = () => {
+  const [teachers, setTeachers] = useState<Teacher[]>([]);
+  useEffect(() => {
+    if (data) {
+      setTeachers(data);
+    }
+  }, [data]);
+
   return <div>App</div>;
 };
 
