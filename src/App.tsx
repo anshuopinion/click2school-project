@@ -14,13 +14,6 @@ const App = () => {
 
   // filter out the teacher with country
 
-  const filterTeachersByCountry = (teachers: Teacher[]) => {
-    return teachers.filter(
-      (teacher) =>
-        teacher.location.country.toLowerCase() === "United States".toLowerCase()
-    );
-  };
-
   useEffect(() => {
     if (data) {
       setTeachers(data);
@@ -29,7 +22,7 @@ const App = () => {
 
   return (
     <div>
-      <GlobalMap />
+      <GlobalMap teachers={teachers} />
     </div>
   );
 };

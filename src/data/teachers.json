@@ -6004,7 +6004,8 @@
     "location": {
       "city": "Troy",
       "state": "Michigan",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [9, 10]
@@ -6014,7 +6015,8 @@
     "location": {
       "city": "La Mesa",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": []
@@ -6024,7 +6026,8 @@
     "location": {
       "city": "Beverly Hills",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [2, 3]
@@ -6034,7 +6037,8 @@
     "location": {
       "city": "Dallas",
       "state": "Texas",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [1, 2, 3, 4, 5, 6, 7, 8]
@@ -6044,7 +6048,8 @@
     "location": {
       "city": "Indianapolis",
       "state": "Indiana",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [9]
@@ -6054,7 +6059,8 @@
     "location": {
       "city": "Danville",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [1]
@@ -6064,7 +6070,8 @@
     "location": {
       "city": "Albany",
       "state": "New York",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [5, 6, 7]
@@ -6074,7 +6081,8 @@
     "location": {
       "city": "Pittsburgh",
       "state": "Pennsylvania",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [9, 10, 11]
@@ -6084,7 +6092,8 @@
     "location": {
       "city": "Tallahassee",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Biology",
     "grades": [9, 10, 11, 12]
@@ -6094,7 +6103,8 @@
     "location": {
       "city": "Manassas",
       "state": "Virginia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [1, 2, 3, 4]
@@ -6104,7 +6114,8 @@
     "location": {
       "city": "La Crosse",
       "state": "Wisconsin",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [8, 9]
@@ -6114,7 +6125,8 @@
     "location": {
       "city": "La Crosse",
       "state": "Wisconsin",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Biology",
     "grades": [9, 10, 11]
@@ -6124,7 +6136,8 @@
     "location": {
       "city": "Alameda",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [6, 7, 8, 9, 10]
@@ -6134,7 +6147,8 @@
     "location": {
       "city": "St. Louis",
       "state": "Missouri",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [2, 3, 4, 5, 6, 7, 8]
@@ -6144,7 +6158,8 @@
     "location": {
       "city": "Chicago",
       "state": "Illinois",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Hindi",
     "grades": [2, 3, 4, 5]
@@ -6154,7 +6169,8 @@
     "location": {
       "city": "Parker",
       "state": "Colorado",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [8, 9, 10, 11, 12]
@@ -6164,7 +6180,8 @@
     "location": {
       "city": "Sterling",
       "state": "Virginia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [6, 7, 8]
@@ -6174,7 +6191,8 @@
     "location": {
       "city": "Austin",
       "state": "Texas",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [1, 2, 3, 4, 5, 6]
@@ -6184,7 +6202,8 @@
     "location": {
       "city": "Casselberry",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [5, 6]
@@ -6194,7 +6213,8 @@
     "location": {
       "city": "Colorado Springs",
       "state": "Colorado",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": [5, 6, 7]
@@ -6204,7 +6224,8 @@
     "location": {
       "city": "Monrovia",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [1, 2, 3, 4, 5, 6, 7]
@@ -6214,7 +6235,8 @@
     "location": {
       "city": "",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [6, 7, 8, 9, 10, 11, 12]
@@ -6224,7 +6246,8 @@
     "location": {
       "city": "St. Louis",
       "state": "Missouri",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [8, 9, 10]
@@ -6234,7 +6257,8 @@
     "location": {
       "city": "Sterling",
       "state": "Virginia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Biology",
     "grades": []
@@ -6244,7 +6268,8 @@
     "location": {
       "city": "Grand Rapids",
       "state": "Michigan",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Hindi",
     "grades": [2, 3, 4]
@@ -6254,7 +6279,8 @@
     "location": {
       "city": "",
       "state": "Pennsylvania",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Hindi",
     "grades": [2, 3, 4]
@@ -6264,7 +6290,8 @@
     "location": {
       "city": "Peoria",
       "state": "Illinois",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [9, 10, 11, 12]
@@ -6274,7 +6301,8 @@
     "location": {
       "city": "Brownstown Charter Township",
       "state": "Michigan",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": []
@@ -6284,7 +6312,8 @@
     "location": {
       "city": "San Diego",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "English",
     "grades": [2, 3, 4, 5, 6, 7, 8]
@@ -6294,7 +6323,8 @@
     "location": {
       "city": "Aptos",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": [5, 6, 7, 8, 9, 10]
@@ -6304,7 +6334,8 @@
     "location": {
       "city": "Monrovia",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [9, 10, 11, 12]
@@ -6314,7 +6345,8 @@
     "location": {
       "city": "Chicago",
       "state": "Illinois",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": [6, 7, 8, 9]
@@ -6324,7 +6356,8 @@
     "location": {
       "city": "Carlsbad",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [8, 9, 10, 11, 12]
@@ -6334,7 +6367,8 @@
     "location": {
       "city": "Tampa",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [9, 10, 11, 12]
@@ -6344,7 +6378,8 @@
     "location": {
       "city": "Monterey",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [2, 3, 4]
@@ -6354,7 +6389,8 @@
     "location": {
       "city": "Portland",
       "state": "Oregon",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [6]
@@ -6364,7 +6400,8 @@
     "location": {
       "city": "Casselberry",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [9, 10]
@@ -6374,7 +6411,8 @@
     "location": {
       "city": "Sterling",
       "state": "Virginia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "English",
     "grades": [1, 2, 3, 4]
@@ -6384,7 +6422,8 @@
     "location": {
       "city": "Atlanta",
       "state": "Georgia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [1, 2, 3, 4, 5, 6]
@@ -6394,7 +6433,8 @@
     "location": {
       "city": "Seattle",
       "state": "Washington",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [2, 3, 4]
@@ -6404,7 +6444,8 @@
     "location": {
       "city": "New Bloomfield",
       "state": "Missouri",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Hindi",
     "grades": [1, 2]
@@ -6414,7 +6455,8 @@
     "location": {
       "city": "Litchfield Park",
       "state": "Arizona",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [2, 3, 4]
@@ -6424,7 +6466,8 @@
     "location": {
       "city": "Nashville",
       "state": "Tennessee",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [1, 2, 3, 4, 5, 6, 7]
@@ -6434,7 +6477,8 @@
     "location": {
       "city": "Grand Rapids",
       "state": "Michigan",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [1, 2, 3, 4, 5]
@@ -6444,7 +6488,8 @@
     "location": {
       "city": "Cameron Park",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [6, 7]
@@ -6454,7 +6499,8 @@
     "location": {
       "city": "Seattle",
       "state": "Washington",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [2, 3, 4, 5, 6, 7]
@@ -6464,7 +6510,8 @@
     "location": {
       "city": "Carmel",
       "state": "Indiana",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "English",
     "grades": [2]
@@ -6474,7 +6521,8 @@
     "location": {
       "city": "Grand Rapids",
       "state": "Michigan",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "English",
     "grades": [2, 3, 4, 5]
@@ -6484,7 +6532,8 @@
     "location": {
       "city": "Centreville",
       "state": "Virginia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Hindi",
     "grades": [2, 3, 4, 5, 6]
@@ -6494,7 +6543,8 @@
     "location": {
       "city": "Washington",
       "state": "District of Columbia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Biology",
     "grades": [8, 9, 10, 11, 12]
@@ -6504,7 +6554,8 @@
     "location": {
       "city": "Monterey",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "English",
     "grades": [2, 3, 4, 5, 6, 7, 8]
@@ -6514,7 +6565,8 @@
     "location": {
       "city": "Las Vegas",
       "state": "Nevada",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [2, 3, 4, 5, 6]
@@ -6524,7 +6576,8 @@
     "location": {
       "city": "Murfreesboro",
       "state": "Tennessee",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [2, 3]
@@ -6534,7 +6587,8 @@
     "location": {
       "city": "Las Vegas",
       "state": "Nevada",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [6, 7, 8, 9, 10, 11, 12]
@@ -6544,7 +6598,8 @@
     "location": {
       "city": "Las Vegas",
       "state": "Nevada",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Biology",
     "grades": [8, 9, 10, 11, 12]
@@ -6554,7 +6609,8 @@
     "location": {
       "city": "Seattle",
       "state": "Washington",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [2, 3, 4, 5, 6]
@@ -6564,7 +6620,8 @@
     "location": {
       "city": "Richmond",
       "state": "Virginia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": [5, 6, 7]
@@ -6574,7 +6631,8 @@
     "location": {
       "city": "Scottsdale",
       "state": "Arizona",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [8, 9, 10, 11, 12]
@@ -6584,7 +6642,8 @@
     "location": {
       "city": "Duluth",
       "state": "Georgia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [1, 2, 3, 4, 5]
@@ -6594,7 +6653,8 @@
     "location": {
       "city": "Fort Worth",
       "state": "Texas",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [9, 10, 11, 12]
@@ -6604,7 +6664,8 @@
     "location": {
       "city": "San Francisco",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [7, 8]
@@ -6614,7 +6675,8 @@
     "location": {
       "city": "Albany",
       "state": "New York",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [6, 7, 8]
@@ -6624,7 +6686,8 @@
     "location": {
       "city": "Chantilly",
       "state": "Virginia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": [5, 6, 7, 8, 9, 10]
@@ -6634,7 +6697,8 @@
     "location": {
       "city": "Pleasanton",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [2, 3, 4, 5, 6, 7, 8]
@@ -6644,7 +6708,8 @@
     "location": {
       "city": "Omaha",
       "state": "Nebraska",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [2, 3, 4, 5]
@@ -6654,7 +6719,8 @@
     "location": {
       "city": "Parker",
       "state": "Colorado",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [2, 3, 4, 5, 6, 7, 8]
@@ -6664,7 +6730,8 @@
     "location": {
       "city": "San Antonio",
       "state": "Texas",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [1, 2, 3, 4, 5]
@@ -6674,7 +6741,8 @@
     "location": {
       "city": "Tucson",
       "state": "Arizona",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [8, 9, 10, 11, 12]
@@ -6684,7 +6752,8 @@
     "location": {
       "city": "Casselberry",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [9, 10, 11, 12]
@@ -6694,7 +6763,8 @@
     "location": {
       "city": "Canyon Lake",
       "state": "Texas",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "English",
     "grades": [1, 2, 3, 4, 5, 6]
@@ -6704,7 +6774,8 @@
     "location": {
       "city": "Fort Lauderdale",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "English",
     "grades": [2]
@@ -6714,7 +6785,8 @@
     "location": {
       "city": "Orlando",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Biology",
     "grades": [9, 10]
@@ -6724,7 +6796,8 @@
     "location": {
       "city": "Carmel",
       "state": "Indiana",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [8, 9]
@@ -6734,7 +6807,8 @@
     "location": {
       "city": "Duluth",
       "state": "Georgia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [6, 7]
@@ -6744,7 +6818,8 @@
     "location": {
       "city": "Omaha",
       "state": "Nebraska",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [8, 9, 10, 11]
@@ -6754,7 +6829,8 @@
     "location": {
       "city": "Pittsburgh",
       "state": "Pennsylvania",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Biology",
     "grades": [8, 9, 10]
@@ -6764,7 +6840,8 @@
     "location": {
       "city": "Monrovia",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": [5, 6, 7, 8, 9, 10, 11]
@@ -6774,7 +6851,8 @@
     "location": {
       "city": "Saint Paul",
       "state": "Minnesota",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [7, 8, 9]
@@ -6784,7 +6862,8 @@
     "location": {
       "city": "Plainfield",
       "state": "Connecticut",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [8, 9]
@@ -6794,7 +6873,8 @@
     "location": {
       "city": "Durham",
       "state": "North Carolina",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [6, 7, 8, 9, 10]
@@ -6804,7 +6884,8 @@
     "location": {
       "city": "Columbus",
       "state": "Ohio",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [7, 8]
@@ -6814,7 +6895,8 @@
     "location": {
       "city": "West Lake Hills",
       "state": "Texas",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [6, 7, 8, 9, 10, 11]
@@ -6824,7 +6906,8 @@
     "location": {
       "city": "Colorado Springs",
       "state": "Colorado",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [2, 3, 4, 5, 6, 7, 8]
@@ -6834,7 +6917,8 @@
     "location": {
       "city": "Plainfield",
       "state": "Connecticut",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": [6]
@@ -6844,7 +6928,8 @@
     "location": {
       "city": "",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Mathematics",
     "grades": [1, 2, 3, 4]
@@ -6854,7 +6939,8 @@
     "location": {
       "city": "Tallahassee",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [5, 6, 7, 8, 9]
@@ -6864,7 +6950,8 @@
     "location": {
       "city": "Colorado Springs",
       "state": "Colorado",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "English",
     "grades": [2, 3, 4, 5, 6, 7, 8]
@@ -6874,7 +6961,8 @@
     "location": {
       "city": "Cameron Park",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [5, 6, 7, 8]
@@ -6884,7 +6972,8 @@
     "location": {
       "city": "Centreville",
       "state": "Virginia",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [1]
@@ -6894,7 +6983,8 @@
     "location": {
       "city": "San Diego",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Public Speaking",
     "grades": [5, 6, 7, 8, 9, 10, 11]
@@ -6904,7 +6994,8 @@
     "location": {
       "city": "Phoenix",
       "state": "Arizona",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Science",
     "grades": [2, 3, 4, 5]
@@ -6914,7 +7005,8 @@
     "location": {
       "city": "Boston",
       "state": "Massachusetts",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [8, 9, 10, 11, 12]
@@ -6924,7 +7016,8 @@
     "location": {
       "city": "Brownstown Charter Township",
       "state": "Michigan",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [9, 10, 11, 12]
@@ -6934,7 +7027,8 @@
     "location": {
       "city": "Canyon Lake",
       "state": "Texas",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [6, 7, 8, 9, 10, 11, 12]
@@ -6944,7 +7038,8 @@
     "location": {
       "city": "Tampa",
       "state": "Florida",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Computer Science",
     "grades": [6, 7, 8, 9, 10, 11]
@@ -6954,7 +7049,8 @@
     "location": {
       "city": "Meridian",
       "state": "Idaho",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [6, 7, 8, 9, 10]
@@ -6964,14 +7060,20 @@
     "location": {
       "city": "Saint Paul",
       "state": "Minnesota",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Physics",
     "grades": [8, 9, 10, 11, 12]
   },
   {
     "name": "Onkar Sachdev",
-    "location": { "city": "", "state": "", "country": "United States" },
+    "location": {
+      "city": "",
+      "state": "",
+      "country": "United States",
+      "country_short": "USA"
+    },
     "subject": "Mathematics",
     "grades": [2, 3, 4]
   },
@@ -6980,7 +7082,8 @@
     "location": {
       "city": "Troy",
       "state": "Michigan",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Social Science",
     "grades": [5, 6, 7, 8, 9]
@@ -6990,7 +7093,8 @@
     "location": {
       "city": "Monterey",
       "state": "California",
-      "country": "United States"
+      "country": "United States",
+      "country_short": "USA"
     },
     "subject": "Chemistry",
     "grades": [9, 10, 11, 12]

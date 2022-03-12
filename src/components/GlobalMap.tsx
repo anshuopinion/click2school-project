@@ -1,24 +1,43 @@
-import React, { useEffect, useState } from "react";
-import { getData } from "country-list";
+import React, { FC, useEffect, useState } from "react";
+import { getData, getCode } from "country-list";
 import { VectorMap } from "@react-jvectormap/core";
 import { worldMill } from "@react-jvectormap/world";
 import { Container } from "@chakra-ui/react";
+import { Teacher } from "../interfaces/Teacher";
+import { filterTeachersByCountry } from "../utils";
 
 const handleClick = () => {
   console.log("Click");
 };
 
-const GlobalMap = () => {
+interface GlobalMapProps {
+  teachers: Teacher[];
+}
+const GlobalMap: FC<GlobalMapProps> = ({ teachers }) => {
   const [countriesData, setContriesData] = useState({});
+
+  // number of teachers in each country
+  console.log(filterTeachersByCountry(teachers, "US").length);
 
   useEffect(() => {
     let countries: any = {};
     getData().map((country) => {
-      countries[country.code] = Math.floor(Math.random() * (100 - 1) + 1);
+      // console.log(filterTeachersByCountry(teachers, country.code).length);
+      // console.log(country.code);
+      // if (filterTeachersByCountry(teachers, country.name).length > 0) {
+      //   console.log("hi");
+      //   countries[country.name] = filterTeachersByCountry(
+      //     teachers,
+      //     country.name
+      //   ).length;
+      // } else {
+      //   countries[country.name] = 0;
+      // }
+      // countries[country.code] = Math.floor(Math.random() * (100 - 1) + 1);
     });
     setContriesData(countries);
   }, []);
-  console.log(countriesData);
+  console.log({ countriesData });
 
   return (
     <Container>
@@ -56,7 +75,7 @@ const GlobalMap = () => {
           regions: [
             {
               attribute: "fill",
-              values: countriesData,
+              // values: countriesData,
               // scale: ["green", "red"] as any,
 
               scale: {
